@@ -1,7 +1,7 @@
 import { readFile, writeFile } from "fs/promises";
 
 const match_text = await readFile("./raw_matches.json", "utf8");
-const raw_matches = (JSON.parse(match_text))["Matches"];
+const raw_matches = JSON.parse(match_text)["Matches"];
 
 const schedule_text = await readFile("./raw_schedule.json", "utf8");
 const raw_schedule = JSON.parse(schedule_text);
@@ -104,28 +104,28 @@ for (let i = 0; i < matches.length; i++) {
   matches[i]["winPercentage"] = winProbability(predictedMargin, stdDev);
 
   if (i < raw_matches.length) {
+    if (raw_matches[i]["scoreRedFinal"] === null) continue;
+    let redPreFoulScore =
+      raw_matches[i]["scoreRedFinal"] - raw_matches[i]["scoreRedFoul"];
+    let bluePreFoulScore =
+      raw_matches[i]["scoreBlueFinal"] - raw_matches[i]["scoreBlueFoul"];
 
-    let redPreFoulScore = raw_matches[i]["scoreRedFinal"] - raw_matches[i]["scoreRedFoul"]
-    let bluePreFoulScore = raw_matches[i]["scoreBlueFinal"] - raw_matches[i]["scoreBlueFoul"]
-
-
-    matches[i]["redScore"] = raw_matches[i]["scoreRedFinal"]
-    matches[i]["blueScore"] = raw_matches[i]["scoreBlueFinal"]
+    matches[i]["redScore"] = raw_matches[i]["scoreRedFinal"];
+    matches[i]["blueScore"] = raw_matches[i]["scoreBlueFinal"];
 
     let redMargin = matches[i]["redScorePred"] - redPreFoulScore;
     let blueMargin = matches[i]["blueScorePred"] - bluePreFoulScore;
 
-    console.log(redMargin)
+    console.log(redMargin);
 
-    numberToEPA[matches[i]["red1"]] -= redMargin * 0.3
-    numberToEPA[matches[i]["red2"]] -= redMargin * 0.3
-    numberToEPA[matches[i]["red3"]] -= redMargin * 0.3
+    numberToEPA[matches[i]["red1"]] -= redMargin * 0.3;
+    numberToEPA[matches[i]["red2"]] -= redMargin * 0.3;
+    numberToEPA[matches[i]["red3"]] -= redMargin * 0.3;
 
     numberToEPA[matches[i]["blue1"]] -= blueMargin * 0.3;
     numberToEPA[matches[i]["blue2"]] -= blueMargin * 0.3;
     numberToEPA[matches[i]["blue3"]] -= blueMargin * 0.3;
-
-  } 
+  }
 }
 console.log(raw_matches.length);
 

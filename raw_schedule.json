@@ -2,827 +2,752 @@
   "Schedule": [
     {
       "description": "Qualification 1",
-      "startTime": "2025-07-26T10:00:00",
+      "startTime": "2026-07-25T10:30:00",
       "matchNumber": 1,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 51, "station": "Red1", "surrogate": false },
-        { "teamNumber": 1038, "station": "Red2", "surrogate": false },
-        { "teamNumber": 4327, "station": "Red3", "surrogate": false },
-        { "teamNumber": 4381, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 1076, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 7197, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 1076, "station": "Red1", "surrogate": false },
+        { "teamNumber": 1189, "station": "Red2", "surrogate": false },
+        { "teamNumber": 201, "station": "Red3", "surrogate": false },
+        { "teamNumber": 3175, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 2834, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 9210, "station": "Blue3", "surrogate": false }
       ]
     },
     {
       "description": "Qualification 2",
-      "startTime": "2025-07-26T10:09:00",
+      "startTime": "2026-07-25T10:39:00",
       "matchNumber": 2,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 3538, "station": "Red1", "surrogate": false },
-        { "teamNumber": 5641, "station": "Red2", "surrogate": false },
-        { "teamNumber": 4384, "station": "Red3", "surrogate": false },
-        { "teamNumber": 33, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 4776, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 27, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 247, "station": "Red1", "surrogate": false },
+        { "teamNumber": 8424, "station": "Red2", "surrogate": false },
+        { "teamNumber": 1596, "station": "Red3", "surrogate": false },
+        { "teamNumber": 3656, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 10349, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 7197, "station": "Blue3", "surrogate": false }
       ]
     },
     {
       "description": "Qualification 3",
-      "startTime": "2025-07-26T10:18:00",
+      "startTime": "2026-07-25T10:48:00",
       "matchNumber": 3,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 9312, "station": "Red1", "surrogate": false },
-        { "teamNumber": 302, "station": "Red2", "surrogate": false },
-        { "teamNumber": 5704, "station": "Red3", "surrogate": false },
-        { "teamNumber": 3641, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 7211, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 1506, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 4327, "station": "Red1", "surrogate": false },
+        { "teamNumber": 1506, "station": "Red2", "surrogate": false },
+        { "teamNumber": 4381, "station": "Red3", "surrogate": false },
+        { "teamNumber": 6120, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 51, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 226, "station": "Blue3", "surrogate": false }
       ]
     },
     {
       "description": "Qualification 4",
-      "startTime": "2025-07-26T10:27:00",
+      "startTime": "2026-07-25T10:57:00",
       "matchNumber": 4,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 3656, "station": "Red1", "surrogate": false },
-        { "teamNumber": 5205, "station": "Red2", "surrogate": false },
-        { "teamNumber": 4422, "station": "Red3", "surrogate": false },
-        { "teamNumber": 5460, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 8728, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 1596, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 6548, "station": "Red1", "surrogate": false },
+        { "teamNumber": 33, "station": "Red2", "surrogate": false },
+        { "teamNumber": 5577, "station": "Red3", "surrogate": false },
+        { "teamNumber": 5704, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 4422, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 6078, "station": "Blue3", "surrogate": false }
       ]
     },
     {
       "description": "Qualification 5",
-      "startTime": "2025-07-26T10:36:00",
+      "startTime": "2026-07-25T11:06:00",
       "matchNumber": 5,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 3175, "station": "Red1", "surrogate": false },
-        { "teamNumber": 201, "station": "Red2", "surrogate": false },
-        { "teamNumber": 9991, "station": "Red3", "surrogate": false },
-        { "teamNumber": 6517, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 6078, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 3357, "station": "Red1", "surrogate": false },
+        { "teamNumber": 4926, "station": "Red2", "surrogate": false },
+        { "teamNumber": 2611, "station": "Red3", "surrogate": false },
+        { "teamNumber": 9255, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 5460, "station": "Blue2", "surrogate": false },
         { "teamNumber": 3655, "station": "Blue3", "surrogate": false }
       ]
     },
     {
       "description": "Qualification 6",
-      "startTime": "2025-07-26T10:45:00",
+      "startTime": "2026-07-25T11:15:00",
       "matchNumber": 6,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 51, "station": "Red1", "surrogate": false },
-        { "teamNumber": 226, "station": "Red2", "surrogate": false },
-        { "teamNumber": 3357, "station": "Red3", "surrogate": false },
+        { "teamNumber": 201, "station": "Red1", "surrogate": false },
+        { "teamNumber": 7197, "station": "Red2", "surrogate": false },
+        { "teamNumber": 6120, "station": "Red3", "surrogate": false },
         { "teamNumber": 1076, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 5641, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 8424, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 51, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 4381, "station": "Blue3", "surrogate": false }
       ]
     },
     {
       "description": "Qualification 7",
-      "startTime": "2025-07-26T10:54:00",
+      "startTime": "2026-07-25T11:24:00",
       "matchNumber": 7,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 3538, "station": "Red1", "surrogate": false },
-        { "teamNumber": 3641, "station": "Red2", "surrogate": false },
-        { "teamNumber": 7197, "station": "Red3", "surrogate": false },
-        { "teamNumber": 4422, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 302, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 8728, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 9210, "station": "Red1", "surrogate": false },
+        { "teamNumber": 226, "station": "Red2", "surrogate": false },
+        { "teamNumber": 33, "station": "Red3", "surrogate": false },
+        { "teamNumber": 3656, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 1189, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 1596, "station": "Blue3", "surrogate": false }
       ]
     },
     {
       "description": "Qualification 8",
-      "startTime": "2025-07-26T11:02:00",
+      "startTime": "2026-07-25T11:33:00",
       "matchNumber": 8,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 4776, "station": "Red1", "surrogate": false },
-        { "teamNumber": 4381, "station": "Red2", "surrogate": false },
-        { "teamNumber": 4327, "station": "Red3", "surrogate": false },
-        { "teamNumber": 1038, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 1506, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 5460, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 10349, "station": "Red1", "surrogate": false },
+        { "teamNumber": 6078, "station": "Red2", "surrogate": false },
+        { "teamNumber": 2611, "station": "Red3", "surrogate": false },
+        { "teamNumber": 4926, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 6548, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 4327, "station": "Blue3", "surrogate": false }
       ]
     },
     {
       "description": "Qualification 9",
-      "startTime": "2025-07-26T11:10:00",
+      "startTime": "2026-07-25T11:42:00",
       "matchNumber": 9,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 9312, "station": "Red1", "surrogate": false },
-        { "teamNumber": 226, "station": "Red2", "surrogate": false },
-        { "teamNumber": 6517, "station": "Red3", "surrogate": false },
-        { "teamNumber": 3175, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 4384, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 5205, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 10",
-      "startTime": "2025-07-26T11:18:00",
-      "matchNumber": 10,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 27, "station": "Red1", "surrogate": false },
-        { "teamNumber": 3655, "station": "Red2", "surrogate": false },
-        { "teamNumber": 201, "station": "Red3", "surrogate": false },
-        { "teamNumber": 3357, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 5704, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 6078, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 11",
-      "startTime": "2025-07-26T11:26:00",
-      "matchNumber": 11,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 7211, "station": "Red1", "surrogate": false },
-        { "teamNumber": 33, "station": "Red2", "surrogate": false },
-        { "teamNumber": 9991, "station": "Red3", "surrogate": false },
-        { "teamNumber": 1596, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 3656, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 5704, "station": "Red1", "surrogate": false },
+        { "teamNumber": 3357, "station": "Red2", "surrogate": false },
+        { "teamNumber": 5460, "station": "Red3", "surrogate": false },
+        { "teamNumber": 2834, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 4422, "station": "Blue2", "surrogate": false },
         { "teamNumber": 8424, "station": "Blue3", "surrogate": false }
       ]
     },
     {
+      "description": "Qualification 10",
+      "startTime": "2026-07-25T11:51:00",
+      "matchNumber": 10,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 9255, "station": "Red1", "surrogate": false },
+        { "teamNumber": 3175, "station": "Red2", "surrogate": false },
+        { "teamNumber": 1506, "station": "Red3", "surrogate": false },
+        { "teamNumber": 3655, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 5577, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 247, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 11",
+      "startTime": "2026-07-25T12:00:00",
+      "matchNumber": 11,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 7197, "station": "Red1", "surrogate": false },
+        { "teamNumber": 9210, "station": "Red2", "surrogate": false },
+        { "teamNumber": 1189, "station": "Red3", "surrogate": false },
+        { "teamNumber": 201, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 6548, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 6078, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
       "description": "Qualification 12",
-      "startTime": "2025-07-26T11:34:00",
+      "startTime": "2026-07-25T12:09:00",
       "matchNumber": 12,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 302, "station": "Red1", "surrogate": false },
-        { "teamNumber": 1038, "station": "Red2", "surrogate": false },
-        { "teamNumber": 6517, "station": "Red3", "surrogate": false },
-        { "teamNumber": 8728, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 10349, "station": "Red1", "surrogate": false },
+        { "teamNumber": 4422, "station": "Red2", "surrogate": false },
+        { "teamNumber": 226, "station": "Red3", "surrogate": false },
+        { "teamNumber": 5460, "station": "Blue1", "surrogate": false },
         { "teamNumber": 51, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 3538, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 2611, "station": "Blue3", "surrogate": false }
       ]
     },
     {
       "description": "Qualification 13",
-      "startTime": "2025-07-26T11:42:00",
+      "startTime": "2026-07-25T12:18:00",
       "matchNumber": 13,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 3655, "station": "Red1", "surrogate": false },
-        { "teamNumber": 4776, "station": "Red2", "surrogate": false },
-        { "teamNumber": 4422, "station": "Red3", "surrogate": false },
-        { "teamNumber": 4327, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 3641, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 226, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 4381, "station": "Red1", "surrogate": false },
+        { "teamNumber": 33, "station": "Red2", "surrogate": false },
+        { "teamNumber": 3655, "station": "Red3", "surrogate": false },
+        { "teamNumber": 3357, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 5577, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 8424, "station": "Blue3", "surrogate": false }
       ]
     },
     {
       "description": "Qualification 14",
-      "startTime": "2025-07-26T11:50:00",
+      "startTime": "2026-07-25T12:27:00",
       "matchNumber": 14,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 5704, "station": "Red1", "surrogate": false },
-        { "teamNumber": 4381, "station": "Red2", "surrogate": false },
-        { "teamNumber": 1506, "station": "Red3", "surrogate": false },
-        { "teamNumber": 7197, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 3357, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 1506, "station": "Red1", "surrogate": false },
+        { "teamNumber": 4926, "station": "Red2", "surrogate": false },
+        { "teamNumber": 2834, "station": "Red3", "surrogate": false },
+        { "teamNumber": 247, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 3175, "station": "Blue2", "surrogate": false },
         { "teamNumber": 3656, "station": "Blue3", "surrogate": false }
       ]
     },
     {
       "description": "Qualification 15",
-      "startTime": "2025-07-26T11:58:00",
+      "startTime": "2026-07-25T12:36:00",
       "matchNumber": 15,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 4384, "station": "Red1", "surrogate": false },
-        { "teamNumber": 7211, "station": "Red2", "surrogate": false },
-        { "teamNumber": 5460, "station": "Red3", "surrogate": false },
-        { "teamNumber": 6078, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 8424, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 5205, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 9255, "station": "Red1", "surrogate": false },
+        { "teamNumber": 6120, "station": "Red2", "surrogate": false },
+        { "teamNumber": 1076, "station": "Red3", "surrogate": false },
+        { "teamNumber": 4327, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 1596, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 5704, "station": "Blue3", "surrogate": false }
       ]
     },
     {
       "description": "Qualification 16",
-      "startTime": "2025-07-26T12:06:00",
+      "startTime": "2026-07-25T12:45:00",
       "matchNumber": 16,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 1596, "station": "Red1", "surrogate": false },
-        { "teamNumber": 1076, "station": "Red2", "surrogate": false },
-        { "teamNumber": 201, "station": "Red3", "surrogate": false },
-        { "teamNumber": 9312, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 9991, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 5641, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 17",
-      "startTime": "2025-07-26T12:14:00",
-      "matchNumber": 17,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 33, "station": "Red1", "surrogate": false },
-        { "teamNumber": 226, "station": "Red2", "surrogate": false },
-        { "teamNumber": 3656, "station": "Red3", "surrogate": false },
-        { "teamNumber": 27, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 302, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 3175, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 18",
-      "startTime": "2025-07-26T12:22:00",
-      "matchNumber": 18,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 5205, "station": "Red1", "surrogate": false },
-        { "teamNumber": 1506, "station": "Red2", "surrogate": false },
-        { "teamNumber": 4776, "station": "Red3", "surrogate": false },
-        { "teamNumber": 7197, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 4422, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 6517, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 19",
-      "startTime": "2025-07-26T12:30:00",
-      "matchNumber": 19,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 201, "station": "Red1", "surrogate": false },
-        { "teamNumber": 4384, "station": "Red2", "surrogate": false },
-        { "teamNumber": 1038, "station": "Red3", "surrogate": false },
-        { "teamNumber": 3655, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 8424, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 7211, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 20",
-      "startTime": "2025-07-26T12:38:00",
-      "matchNumber": 20,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 8728, "station": "Red1", "surrogate": false },
-        { "teamNumber": 9312, "station": "Red2", "surrogate": false },
-        { "teamNumber": 3641, "station": "Red3", "surrogate": false },
-        { "teamNumber": 33, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 5460, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 51, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 21",
-      "startTime": "2025-07-26T12:46:00",
-      "matchNumber": 21,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 1076, "station": "Red1", "surrogate": false },
-        { "teamNumber": 5704, "station": "Red2", "surrogate": false },
-        { "teamNumber": 27, "station": "Red3", "surrogate": false },
-        { "teamNumber": 1596, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 3175, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 6548, "station": "Red1", "surrogate": false },
+        { "teamNumber": 9210, "station": "Red2", "surrogate": false },
+        { "teamNumber": 3357, "station": "Red3", "surrogate": false },
+        { "teamNumber": 5460, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 226, "station": "Blue2", "surrogate": false },
         { "teamNumber": 4381, "station": "Blue3", "surrogate": false }
       ]
     },
     {
+      "description": "Qualification 17",
+      "startTime": "2026-07-25T14:00:00",
+      "matchNumber": 17,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 1189, "station": "Red1", "surrogate": false },
+        { "teamNumber": 247, "station": "Red2", "surrogate": false },
+        { "teamNumber": 4926, "station": "Red3", "surrogate": false },
+        { "teamNumber": 1506, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 5577, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 201, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 18",
+      "startTime": "2026-07-25T14:09:00",
+      "matchNumber": 18,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 6120, "station": "Red1", "surrogate": false },
+        { "teamNumber": 3655, "station": "Red2", "surrogate": false },
+        { "teamNumber": 4327, "station": "Red3", "surrogate": false },
+        { "teamNumber": 4422, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 7197, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 33, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 19",
+      "startTime": "2026-07-25T14:18:00",
+      "matchNumber": 19,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 5704, "station": "Red1", "surrogate": false },
+        { "teamNumber": 1076, "station": "Red2", "surrogate": false },
+        { "teamNumber": 10349, "station": "Red3", "surrogate": false },
+        { "teamNumber": 6078, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 9255, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 3656, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 20",
+      "startTime": "2026-07-25T14:27:00",
+      "matchNumber": 20,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 2834, "station": "Red1", "surrogate": false },
+        { "teamNumber": 1596, "station": "Red2", "surrogate": false },
+        { "teamNumber": 51, "station": "Red3", "surrogate": false },
+        { "teamNumber": 8424, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 3175, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 2611, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 21",
+      "startTime": "2026-07-25T14:36:00",
+      "matchNumber": 21,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 3357, "station": "Red1", "surrogate": false },
+        { "teamNumber": 4327, "station": "Red2", "surrogate": false },
+        { "teamNumber": 226, "station": "Red3", "surrogate": false },
+        { "teamNumber": 4926, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 201, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 9210, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
       "description": "Qualification 22",
-      "startTime": "2025-07-26T12:54:00",
+      "startTime": "2026-07-25T14:45:00",
       "matchNumber": 22,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 9991, "station": "Red1", "surrogate": false },
-        { "teamNumber": 3357, "station": "Red2", "surrogate": false },
-        { "teamNumber": 3538, "station": "Red3", "surrogate": false },
-        { "teamNumber": 5641, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 4327, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 6078, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 1189, "station": "Red1", "surrogate": false },
+        { "teamNumber": 6120, "station": "Red2", "surrogate": false },
+        { "teamNumber": 5577, "station": "Red3", "surrogate": false },
+        { "teamNumber": 5460, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 3656, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 4422, "station": "Blue3", "surrogate": false }
       ]
     },
     {
       "description": "Qualification 23",
-      "startTime": "2025-07-26T14:02:00",
+      "startTime": "2026-07-25T14:54:00",
       "matchNumber": 23,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 1038, "station": "Red1", "surrogate": false },
-        { "teamNumber": 4776, "station": "Red2", "surrogate": false },
-        { "teamNumber": 8424, "station": "Red3", "surrogate": false },
-        { "teamNumber": 201, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 33, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 1506, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 9255, "station": "Red1", "surrogate": false },
+        { "teamNumber": 8424, "station": "Red2", "surrogate": false },
+        { "teamNumber": 5704, "station": "Red3", "surrogate": false },
+        { "teamNumber": 1506, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 6548, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 7197, "station": "Blue3", "surrogate": false }
       ]
     },
     {
       "description": "Qualification 24",
-      "startTime": "2025-07-26T14:10:00",
+      "startTime": "2026-07-25T15:03:00",
       "matchNumber": 24,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 3656, "station": "Red1", "surrogate": false },
-        { "teamNumber": 3175, "station": "Red2", "surrogate": false },
-        { "teamNumber": 3655, "station": "Red3", "surrogate": false },
-        { "teamNumber": 7197, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 7211, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 51, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 25",
-      "startTime": "2025-07-26T14:18:00",
-      "matchNumber": 25,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 302, "station": "Red1", "surrogate": false },
-        { "teamNumber": 9991, "station": "Red2", "surrogate": false },
-        { "teamNumber": 5460, "station": "Red3", "surrogate": false },
-        { "teamNumber": 5205, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 4327, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 3357, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 26",
-      "startTime": "2025-07-26T14:26:00",
-      "matchNumber": 26,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 4381, "station": "Red1", "surrogate": false },
-        { "teamNumber": 4422, "station": "Red2", "surrogate": false },
-        { "teamNumber": 5641, "station": "Red3", "surrogate": false },
-        { "teamNumber": 3641, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 4384, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 1076, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 27",
-      "startTime": "2025-07-26T14:34:00",
-      "matchNumber": 27,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 3538, "station": "Red1", "surrogate": false },
-        { "teamNumber": 6078, "station": "Red2", "surrogate": false },
-        { "teamNumber": 1596, "station": "Red3", "surrogate": false },
-        { "teamNumber": 226, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 5704, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 8728, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 28",
-      "startTime": "2025-07-26T14:42:00",
-      "matchNumber": 28,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 27, "station": "Red1", "surrogate": false },
-        { "teamNumber": 6517, "station": "Red2", "surrogate": false },
-        { "teamNumber": 3357, "station": "Red3", "surrogate": false },
-        { "teamNumber": 3656, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 1038, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 9312, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 29",
-      "startTime": "2025-07-26T14:50:00",
-      "matchNumber": 29,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 4327, "station": "Red1", "surrogate": false },
-        { "teamNumber": 201, "station": "Red2", "surrogate": false },
-        { "teamNumber": 7211, "station": "Red3", "surrogate": false },
-        { "teamNumber": 5641, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 5205, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 51, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 30",
-      "startTime": "2025-07-26T14:58:00",
-      "matchNumber": 30,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 1506, "station": "Red1", "surrogate": false },
-        { "teamNumber": 8728, "station": "Red2", "surrogate": false },
-        { "teamNumber": 7197, "station": "Red3", "surrogate": false },
-        { "teamNumber": 226, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 4384, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 9991, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 31",
-      "startTime": "2025-07-26T15:06:00",
-      "matchNumber": 31,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 4381, "station": "Red1", "surrogate": false },
-        { "teamNumber": 5460, "station": "Red2", "surrogate": false },
-        { "teamNumber": 3655, "station": "Red3", "surrogate": false },
-        { "teamNumber": 4422, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 27, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 1596, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 32",
-      "startTime": "2025-07-26T15:14:00",
-      "matchNumber": 32,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 8424, "station": "Red1", "surrogate": false },
-        { "teamNumber": 9312, "station": "Red2", "surrogate": false },
-        { "teamNumber": 33, "station": "Red3", "surrogate": false },
-        { "teamNumber": 5704, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 3538, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 4776, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 33",
-      "startTime": "2025-07-26T15:22:00",
-      "matchNumber": 33,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 302, "station": "Red1", "surrogate": false },
-        { "teamNumber": 6078, "station": "Red2", "surrogate": false },
-        { "teamNumber": 3641, "station": "Red3", "surrogate": false },
-        { "teamNumber": 1076, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 6517, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 6078, "station": "Red1", "surrogate": false },
+        { "teamNumber": 3655, "station": "Red2", "surrogate": false },
+        { "teamNumber": 51, "station": "Red3", "surrogate": false },
+        { "teamNumber": 1596, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 10349, "station": "Blue2", "surrogate": false },
         { "teamNumber": 3175, "station": "Blue3", "surrogate": false }
       ]
     },
     {
-      "description": "Qualification 34",
-      "startTime": "2025-07-26T15:30:00",
-      "matchNumber": 34,
+      "description": "Qualification 25",
+      "startTime": "2026-07-25T15:12:00",
+      "matchNumber": 25,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 7211, "station": "Red1", "surrogate": false },
-        { "teamNumber": 5205, "station": "Red2", "surrogate": false },
-        { "teamNumber": 8728, "station": "Red3", "surrogate": false },
-        { "teamNumber": 4381, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 1038, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 27, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 2611, "station": "Red1", "surrogate": false },
+        { "teamNumber": 4381, "station": "Red2", "surrogate": false },
+        { "teamNumber": 247, "station": "Red3", "surrogate": false },
+        { "teamNumber": 33, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 1076, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 2834, "station": "Blue3", "surrogate": false }
       ]
     },
     {
-      "description": "Qualification 35",
-      "startTime": "2025-07-26T15:38:00",
-      "matchNumber": 35,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 4384, "station": "Red1", "surrogate": false },
-        { "teamNumber": 5704, "station": "Red2", "surrogate": false },
-        { "teamNumber": 51, "station": "Red3", "surrogate": false },
-        { "teamNumber": 3357, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 4776, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 5460, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 36",
-      "startTime": "2025-07-26T15:46:00",
-      "matchNumber": 36,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 4422, "station": "Red1", "surrogate": false },
-        { "teamNumber": 33, "station": "Red2", "surrogate": false },
-        { "teamNumber": 6078, "station": "Red3", "surrogate": false },
-        { "teamNumber": 201, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 7197, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 302, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 37",
-      "startTime": "2025-07-26T15:54:00",
-      "matchNumber": 37,
+      "description": "Qualification 26",
+      "startTime": "2026-07-25T15:21:00",
+      "matchNumber": 26,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
         { "teamNumber": 8424, "station": "Red1", "surrogate": false },
-        { "teamNumber": 3641, "station": "Red2", "surrogate": false },
-        { "teamNumber": 3175, "station": "Red3", "surrogate": false },
-        { "teamNumber": 9991, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 3656, "station": "Red2", "surrogate": false },
+        { "teamNumber": 9210, "station": "Red3", "surrogate": false },
+        { "teamNumber": 201, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 9255, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 4422, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 27",
+      "startTime": "2026-07-25T15:30:00",
+      "matchNumber": 27,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 51, "station": "Red1", "surrogate": false },
+        { "teamNumber": 6548, "station": "Red2", "surrogate": false },
+        { "teamNumber": 1189, "station": "Red3", "surrogate": false },
+        { "teamNumber": 5577, "station": "Blue1", "surrogate": false },
         { "teamNumber": 1596, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 4926, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 28",
+      "startTime": "2026-07-25T15:39:00",
+      "matchNumber": 28,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 6078, "station": "Red1", "surrogate": false },
+        { "teamNumber": 226, "station": "Red2", "surrogate": false },
+        { "teamNumber": 3175, "station": "Red3", "surrogate": false },
+        { "teamNumber": 4381, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 2834, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 7197, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 29",
+      "startTime": "2026-07-25T15:48:00",
+      "matchNumber": 29,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 3655, "station": "Red1", "surrogate": false },
+        { "teamNumber": 5704, "station": "Red2", "surrogate": false },
+        { "teamNumber": 1506, "station": "Red3", "surrogate": false },
+        { "teamNumber": 1076, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 2611, "station": "Blue2", "surrogate": false },
         { "teamNumber": 4327, "station": "Blue3", "surrogate": false }
       ]
     },
     {
-      "description": "Qualification 38",
-      "startTime": "2025-07-26T16:02:00",
-      "matchNumber": 38,
+      "description": "Qualification 30",
+      "startTime": "2026-07-25T15:57:00",
+      "matchNumber": 30,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 6517, "station": "Red1", "surrogate": false },
-        { "teamNumber": 3656, "station": "Red2", "surrogate": false },
-        { "teamNumber": 3538, "station": "Red3", "surrogate": false },
-        { "teamNumber": 1076, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 1506, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 226, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 10349, "station": "Red1", "surrogate": false },
+        { "teamNumber": 247, "station": "Red2", "surrogate": false },
+        { "teamNumber": 5460, "station": "Red3", "surrogate": false },
+        { "teamNumber": 3357, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 33, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 6120, "station": "Blue3", "surrogate": false }
       ]
     },
     {
-      "description": "Qualification 39",
-      "startTime": "2025-07-26T16:10:00",
-      "matchNumber": 39,
+      "description": "Qualification 31",
+      "startTime": "2026-07-25T16:06:00",
+      "matchNumber": 31,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 5641, "station": "Red1", "surrogate": false },
-        { "teamNumber": 3655, "station": "Red2", "surrogate": false },
-        { "teamNumber": 33, "station": "Red3", "surrogate": false },
-        { "teamNumber": 6078, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 4381, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 9312, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 5577, "station": "Red1", "surrogate": false },
+        { "teamNumber": 4381, "station": "Red2", "surrogate": false },
+        { "teamNumber": 4422, "station": "Red3", "surrogate": false },
+        { "teamNumber": 1596, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 226, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 9255, "station": "Blue3", "surrogate": false }
       ]
     },
     {
-      "description": "Qualification 40",
-      "startTime": "2025-07-26T16:18:00",
-      "matchNumber": 40,
+      "description": "Qualification 32",
+      "startTime": "2026-07-25T16:15:00",
+      "matchNumber": 32,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 1596, "station": "Red1", "surrogate": false },
-        { "teamNumber": 7197, "station": "Red2", "surrogate": false },
-        { "teamNumber": 5205, "station": "Red3", "surrogate": false },
-        { "teamNumber": 51, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 201, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 3641, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 201, "station": "Red1", "surrogate": false },
+        { "teamNumber": 2834, "station": "Red2", "surrogate": false },
+        { "teamNumber": 3656, "station": "Red3", "surrogate": false },
+        { "teamNumber": 2611, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 3655, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 6548, "station": "Blue3", "surrogate": false }
       ]
     },
     {
-      "description": "Qualification 41",
-      "startTime": "2025-07-26T16:26:00",
-      "matchNumber": 41,
+      "description": "Qualification 33",
+      "startTime": "2026-07-25T16:24:00",
+      "matchNumber": 33,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 8728, "station": "Red1", "surrogate": false },
+        { "teamNumber": 3175, "station": "Red1", "surrogate": false },
         { "teamNumber": 3357, "station": "Red2", "surrogate": false },
         { "teamNumber": 1076, "station": "Red3", "surrogate": false },
-        { "teamNumber": 4776, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 3175, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 7211, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 4926, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 6120, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 5704, "station": "Blue3", "surrogate": false }
       ]
     },
     {
-      "description": "Qualification 42",
-      "startTime": "2025-07-26T16:34:00",
-      "matchNumber": 42,
+      "description": "Qualification 34",
+      "startTime": "2026-07-25T16:33:00",
+      "matchNumber": 34,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 6517, "station": "Red1", "surrogate": false },
-        { "teamNumber": 5460, "station": "Red2", "surrogate": false },
-        { "teamNumber": 5641, "station": "Red3", "surrogate": false },
-        { "teamNumber": 1506, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 3655, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 3538, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 4327, "station": "Red1", "surrogate": false },
+        { "teamNumber": 7197, "station": "Red2", "surrogate": false },
+        { "teamNumber": 247, "station": "Red3", "surrogate": false },
+        { "teamNumber": 10349, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 33, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 1189, "station": "Blue3", "surrogate": false }
       ]
     },
     {
-      "description": "Qualification 43",
-      "startTime": "2025-07-26T16:42:00",
-      "matchNumber": 43,
+      "description": "Qualification 35",
+      "startTime": "2026-07-25T16:42:00",
+      "matchNumber": 35,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 8424, "station": "Red1", "surrogate": false },
+        { "teamNumber": 6078, "station": "Red2", "surrogate": false },
+        { "teamNumber": 5460, "station": "Red3", "surrogate": false },
+        { "teamNumber": 51, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 1506, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 9210, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 36",
+      "startTime": "2026-07-25T16:51:00",
+      "matchNumber": 36,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 3655, "station": "Red1", "surrogate": false },
+        { "teamNumber": 201, "station": "Red2", "surrogate": false },
+        { "teamNumber": 3357, "station": "Red3", "surrogate": false },
+        { "teamNumber": 3175, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 5704, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 6548, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 37",
+      "startTime": "2026-07-25T17:00:00",
+      "matchNumber": 37,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 3656, "station": "Red1", "surrogate": false },
+        { "teamNumber": 2611, "station": "Red2", "surrogate": false },
+        { "teamNumber": 33, "station": "Red3", "surrogate": false },
+        { "teamNumber": 1189, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 4381, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 9255, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 38",
+      "startTime": "2026-07-25T17:09:00",
+      "matchNumber": 38,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
         { "teamNumber": 4327, "station": "Red1", "surrogate": false },
         { "teamNumber": 8424, "station": "Red2", "surrogate": false },
-        { "teamNumber": 302, "station": "Red3", "surrogate": false },
-        { "teamNumber": 4384, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 27, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 9312, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 44",
-      "startTime": "2025-07-27T10:00:00",
-      "matchNumber": 44,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 4422, "station": "Red1", "surrogate": false },
-        { "teamNumber": 226, "station": "Red2", "surrogate": false },
-        { "teamNumber": 1038, "station": "Red3", "surrogate": false },
-        { "teamNumber": 9991, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 3656, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 5704, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 45",
-      "startTime": "2025-07-27T10:09:00",
-      "matchNumber": 45,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 5205, "station": "Red1", "surrogate": false },
-        { "teamNumber": 6517, "station": "Red2", "surrogate": false },
-        { "teamNumber": 3641, "station": "Red3", "surrogate": false },
-        { "teamNumber": 33, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 3357, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 4381, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 46",
-      "startTime": "2025-07-27T10:17:00",
-      "matchNumber": 46,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 6078, "station": "Red1", "surrogate": false },
-        { "teamNumber": 51, "station": "Red2", "surrogate": false },
-        { "teamNumber": 4776, "station": "Red3", "surrogate": false },
-        { "teamNumber": 1506, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 1596, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 302, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 47",
-      "startTime": "2025-07-27T10:25:00",
-      "matchNumber": 47,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 3656, "station": "Red1", "surrogate": false },
-        { "teamNumber": 8728, "station": "Red2", "surrogate": false },
-        { "teamNumber": 201, "station": "Red3", "surrogate": false },
-        { "teamNumber": 3655, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 4327, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 4384, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 48",
-      "startTime": "2025-07-27T10:33:00",
-      "matchNumber": 48,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 9991, "station": "Red1", "surrogate": false },
-        { "teamNumber": 7197, "station": "Red2", "surrogate": false },
-        { "teamNumber": 27, "station": "Red3", "surrogate": false },
-        { "teamNumber": 5460, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 9312, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 51, "station": "Red3", "surrogate": false },
+        { "teamNumber": 226, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 4926, "station": "Blue2", "surrogate": false },
         { "teamNumber": 1076, "station": "Blue3", "surrogate": false }
       ]
     },
     {
-      "description": "Qualification 49",
-      "startTime": "2025-07-27T10:41:00",
-      "matchNumber": 49,
+      "description": "Qualification 39",
+      "startTime": "2026-07-25T17:18:00",
+      "matchNumber": 39,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 4422, "station": "Red1", "surrogate": false },
+        { "teamNumber": 9210, "station": "Red2", "surrogate": false },
+        { "teamNumber": 1596, "station": "Red3", "surrogate": false },
+        { "teamNumber": 247, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 1506, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 6078, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 40",
+      "startTime": "2026-07-26T10:00:00",
+      "matchNumber": 40,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 7197, "station": "Red1", "surrogate": false },
+        { "teamNumber": 5577, "station": "Red2", "surrogate": false },
+        { "teamNumber": 5460, "station": "Red3", "surrogate": false },
+        { "teamNumber": 2834, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 6120, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 10349, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 41",
+      "startTime": "2026-07-26T10:09:00",
+      "matchNumber": 41,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
         { "teamNumber": 3175, "station": "Red1", "surrogate": false },
-        { "teamNumber": 3538, "station": "Red2", "surrogate": false },
-        { "teamNumber": 226, "station": "Red3", "surrogate": false },
-        { "teamNumber": 7211, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 5641, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 1038, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 50",
-      "startTime": "2025-07-27T10:49:00",
-      "matchNumber": 50,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 5704, "station": "Red1", "surrogate": false },
-        { "teamNumber": 4422, "station": "Red2", "surrogate": false },
-        { "teamNumber": 4327, "station": "Red3", "surrogate": false },
-        { "teamNumber": 8424, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 51, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 6517, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 51",
-      "startTime": "2025-07-27T10:57:00",
-      "matchNumber": 51,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 4776, "station": "Red1", "surrogate": false },
-        { "teamNumber": 1076, "station": "Red2", "surrogate": false },
-        { "teamNumber": 302, "station": "Red3", "surrogate": false },
-        { "teamNumber": 3655, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 9312, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 5205, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 52",
-      "startTime": "2025-07-27T11:05:00",
-      "matchNumber": 52,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 3175, "station": "Red1", "surrogate": false },
-        { "teamNumber": 6078, "station": "Red2", "surrogate": false },
-        { "teamNumber": 1506, "station": "Red3", "surrogate": false },
-        { "teamNumber": 3641, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 27, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 3656, "station": "Blue3", "surrogate": false }
-      ]
-    },
-    {
-      "description": "Qualification 53",
-      "startTime": "2025-07-27T11:13:00",
-      "matchNumber": 53,
-      "field": "Primary",
-      "tournamentLevel": "Qualification",
-      "teams": [
-        { "teamNumber": 5641, "station": "Red1", "surrogate": false },
-        { "teamNumber": 7197, "station": "Red2", "surrogate": false },
-        { "teamNumber": 5704, "station": "Red3", "surrogate": false },
-        { "teamNumber": 8728, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 9991, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 4926, "station": "Red2", "surrogate": false },
+        { "teamNumber": 3655, "station": "Red3", "surrogate": false },
+        { "teamNumber": 33, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 201, "station": "Blue2", "surrogate": false },
         { "teamNumber": 8424, "station": "Blue3", "surrogate": false }
       ]
     },
     {
-      "description": "Qualification 54",
-      "startTime": "2025-07-27T11:21:00",
-      "matchNumber": 54,
+      "description": "Qualification 42",
+      "startTime": "2026-07-26T10:18:00",
+      "matchNumber": 42,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 226, "station": "Red1", "surrogate": false },
-        { "teamNumber": 7211, "station": "Red2", "surrogate": false },
-        { "teamNumber": 4381, "station": "Red3", "surrogate": false },
-        { "teamNumber": 5460, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 201, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 4422, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 51, "station": "Red1", "surrogate": false },
+        { "teamNumber": 247, "station": "Red2", "surrogate": false },
+        { "teamNumber": 9255, "station": "Red3", "surrogate": false },
+        { "teamNumber": 226, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 5704, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 1189, "station": "Blue3", "surrogate": false }
       ]
     },
     {
-      "description": "Qualification 55",
-      "startTime": "2025-07-27T11:29:00",
-      "matchNumber": 55,
+      "description": "Qualification 43",
+      "startTime": "2026-07-26T10:27:00",
+      "matchNumber": 43,
       "field": "Primary",
       "tournamentLevel": "Qualification",
       "teams": [
-        { "teamNumber": 3357, "station": "Red1", "surrogate": false },
+        { "teamNumber": 4422, "station": "Red1", "surrogate": false },
+        { "teamNumber": 1506, "station": "Red2", "surrogate": false },
+        { "teamNumber": 1076, "station": "Red3", "surrogate": false },
+        { "teamNumber": 4381, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 10349, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 3357, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 44",
+      "startTime": "2026-07-26T10:36:00",
+      "matchNumber": 44,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 2611, "station": "Red1", "surrogate": false },
         { "teamNumber": 1596, "station": "Red2", "surrogate": false },
-        { "teamNumber": 4384, "station": "Red3", "surrogate": false },
-        { "teamNumber": 1038, "station": "Blue1", "surrogate": false },
-        { "teamNumber": 3538, "station": "Blue2", "surrogate": false },
-        { "teamNumber": 33, "station": "Blue3", "surrogate": false }
+        { "teamNumber": 7197, "station": "Red3", "surrogate": false },
+        { "teamNumber": 9210, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 6078, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 6120, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 45",
+      "startTime": "2026-07-26T10:45:00",
+      "matchNumber": 45,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 6548, "station": "Red1", "surrogate": false },
+        { "teamNumber": 5460, "station": "Red2", "surrogate": false },
+        { "teamNumber": 2834, "station": "Red3", "surrogate": false },
+        { "teamNumber": 5577, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 4327, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 3656, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 46",
+      "startTime": "2026-07-26T10:54:00",
+      "matchNumber": 46,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 4381, "station": "Red1", "surrogate": false },
+        { "teamNumber": 8424, "station": "Red2", "surrogate": false },
+        { "teamNumber": 4926, "station": "Red3", "surrogate": false },
+        { "teamNumber": 4422, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 1189, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 3655, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 47",
+      "startTime": "2026-07-26T11:03:00",
+      "matchNumber": 47,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 6120, "station": "Red1", "surrogate": false },
+        { "teamNumber": 2611, "station": "Red2", "surrogate": false },
+        { "teamNumber": 1506, "station": "Red3", "surrogate": false },
+        { "teamNumber": 226, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 247, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 201, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 48",
+      "startTime": "2026-07-26T11:12:00",
+      "matchNumber": 48,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 33, "station": "Red1", "surrogate": false },
+        { "teamNumber": 5460, "station": "Red2", "surrogate": false },
+        { "teamNumber": 3175, "station": "Red3", "surrogate": false },
+        { "teamNumber": 1596, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 1076, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 6548, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 49",
+      "startTime": "2026-07-26T11:21:00",
+      "matchNumber": 49,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 51, "station": "Red1", "surrogate": false },
+        { "teamNumber": 3656, "station": "Red2", "surrogate": false },
+        { "teamNumber": 5704, "station": "Red3", "surrogate": false },
+        { "teamNumber": 7197, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 3357, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 6078, "station": "Blue3", "surrogate": false }
+      ]
+    },
+    {
+      "description": "Qualification 50",
+      "startTime": "2026-07-26T11:30:00",
+      "matchNumber": 50,
+      "field": "Primary",
+      "tournamentLevel": "Qualification",
+      "teams": [
+        { "teamNumber": 2834, "station": "Red1", "surrogate": false },
+        { "teamNumber": 9255, "station": "Red2", "surrogate": false },
+        { "teamNumber": 5577, "station": "Red3", "surrogate": false },
+        { "teamNumber": 9210, "station": "Blue1", "surrogate": false },
+        { "teamNumber": 4327, "station": "Blue2", "surrogate": false },
+        { "teamNumber": 10349, "station": "Blue3", "surrogate": false }
       ]
     }
   ]
