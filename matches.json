@@ -142,8 +142,8 @@
     "blue1": 3655,
     "blue2": 5577,
     "blue3": 247,
-    "redScore": -1,
-    "blueScore": -1,
+    "redScore": 81,
+    "blueScore": 63,
     "redScorePred": 199.81,
     "blueScorePred": 105.37,
     "winningAlliance": "red",
@@ -189,8 +189,8 @@
     "blue3": 8424,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 121.589,
-    "blueScorePred": 30.92199999999999,
+    "redScorePred": 108.878,
+    "blueScorePred": 18.21099999999999,
     "winningAlliance": "red",
     "winPercentage": 87.14636722598567
   },
@@ -204,10 +204,10 @@
     "blue3": 3656,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 123.988,
-    "blueScorePred": 194.63500000000002,
+    "redScorePred": 79.345,
+    "blueScorePred": 137.28100000000003,
     "winningAlliance": "blue",
-    "winPercentage": 81.14055367342421
+    "winPercentage": 76.55285900737671
   },
   {
     "name": "Qualification 15",
@@ -219,10 +219,10 @@
     "blue3": 5704,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 156.49499999999998,
+    "redScorePred": 111.85199999999998,
     "blueScorePred": -17.05299999999998,
     "winningAlliance": "red",
-    "winPercentage": 98.49719922023215
+    "winPercentage": 94.64441900201311
   },
   {
     "name": "Qualification 16",
@@ -249,10 +249,10 @@
     "blue3": 201,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 170.57399999999998,
-    "blueScorePred": 282.179,
+    "redScorePred": 157.863,
+    "blueScorePred": 224.825,
     "winningAlliance": "blue",
-    "winPercentage": 91.85014478510818
+    "winPercentage": 79.87107926294857
   },
   {
     "name": "Qualification 18",
@@ -264,10 +264,10 @@
     "blue3": 33,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 119.518,
+    "redScorePred": 106.807,
     "blueScorePred": 240.08100000000002,
     "winningAlliance": "blue",
-    "winPercentage": 93.40994496408936
+    "winPercentage": 95.2135843242306
   },
   {
     "name": "Qualification 19",
@@ -280,9 +280,9 @@
     "redScore": -1,
     "blueScore": -1,
     "redScorePred": 148.70099999999996,
-    "blueScorePred": 141.53700000000003,
+    "blueScorePred": 96.89400000000002,
     "winningAlliance": "red",
-    "winPercentage": 53.567765347271646
+    "winPercentage": 74.13741696787964
   },
   {
     "name": "Qualification 20",
@@ -295,9 +295,9 @@
     "redScore": -1,
     "blueScore": -1,
     "redScorePred": 50.34000000000002,
-    "blueScorePred": 157.301,
+    "blueScorePred": 112.658,
     "winningAlliance": "blue",
-    "winPercentage": 90.93906570497943
+    "winPercentage": 78.20028432722759
   },
   {
     "name": "Qualification 21",
@@ -324,10 +324,10 @@
     "blue3": 4422,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 144.654,
+    "redScorePred": 131.94299999999998,
     "blueScorePred": 347.03700000000003,
     "winningAlliance": "blue",
-    "winPercentage": 99.42933978521116
+    "winPercentage": 99.64131409652882
   },
   {
     "name": "Qualification 23",
@@ -339,8 +339,8 @@
     "blue3": 7197,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 44.31199999999998,
-    "blueScorePred": 210.228,
+    "redScorePred": -0.3310000000000146,
+    "blueScorePred": 165.585,
     "winningAlliance": "blue",
     "winPercentage": 98.09580876705559
   },
@@ -354,10 +354,10 @@
     "blue3": 3175,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 176.368,
-    "blueScorePred": 106.07700000000003,
+    "redScorePred": 163.65699999999998,
+    "blueScorePred": 61.43400000000002,
     "winningAlliance": "red",
-    "winPercentage": 81.02011088184182
+    "winPercentage": 89.93377498108168
   },
   {
     "name": "Qualification 25",
@@ -369,10 +369,10 @@
     "blue3": 2834,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 132.08800000000002,
+    "redScorePred": 119.37700000000001,
     "blueScorePred": 167.698,
     "winningAlliance": "blue",
-    "winPercentage": 67.18852605563912
+    "winPercentage": 72.7082383601462
   },
   {
     "name": "Qualification 26",
@@ -385,9 +385,9 @@
     "redScore": -1,
     "blueScore": -1,
     "redScorePred": 57.45700000000003,
-    "blueScorePred": 268.728,
+    "blueScorePred": 224.085,
     "winningAlliance": "blue",
-    "winPercentage": 99.58655006402279
+    "winPercentage": 98.13676150291258
   },
   {
     "name": "Qualification 27",
@@ -400,9 +400,9 @@
     "redScore": -1,
     "blueScore": -1,
     "redScorePred": 210.57,
-    "blueScorePred": -2.4359999999999857,
+    "blueScorePred": -15.146999999999984,
     "winningAlliance": "red",
-    "winPercentage": 99.61226915657842
+    "winPercentage": 99.76096764974912
   },
   {
     "name": "Qualification 28",
@@ -414,10 +414,10 @@
     "blue3": 7197,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 140.725,
+    "redScorePred": 96.082,
     "blueScorePred": 99.40400000000002,
-    "winningAlliance": "red",
-    "winPercentage": 69.72517547995653
+    "winningAlliance": "blue",
+    "winPercentage": 51.65613815071723
   },
   {
     "name": "Qualification 29",
@@ -429,10 +429,10 @@
     "blue3": 4327,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 103.97299999999998,
+    "redScorePred": 46.618999999999986,
     "blueScorePred": 180.09699999999998,
     "winningAlliance": "blue",
-    "winPercentage": 82.93373844881476
+    "winPercentage": 95.23892853775197
   },
   {
     "name": "Qualification 30",
@@ -444,10 +444,10 @@
     "blue3": 6120,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 385.94500000000005,
+    "redScorePred": 373.23400000000004,
     "blueScorePred": 146.165,
     "winningAlliance": "red",
-    "winPercentage": 99.86377947522863
+    "winPercentage": 99.77326539769851
   },
   {
     "name": "Qualification 31",
@@ -459,10 +459,10 @@
     "blue3": 9255,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 75.375,
-    "blueScorePred": -7.031999999999982,
+    "redScorePred": 62.664,
+    "blueScorePred": -51.67499999999998,
     "winningAlliance": "red",
-    "winPercentage": 84.85155124880836
+    "winPercentage": 92.35319603474622
   },
   {
     "name": "Qualification 32",
@@ -475,9 +475,9 @@
     "redScore": -1,
     "blueScore": -1,
     "redScorePred": 237.69300000000004,
-    "blueScorePred": 125.77099999999999,
+    "blueScorePred": 113.05999999999999,
     "winningAlliance": "red",
-    "winPercentage": 91.90972020701605
+    "winPercentage": 94.03729916908475
   },
   {
     "name": "Qualification 33",
@@ -489,10 +489,10 @@
     "blue3": 5704,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 146.349,
+    "redScorePred": 101.70599999999999,
     "blueScorePred": 82.011,
     "winningAlliance": "red",
-    "winPercentage": 78.93665375024756
+    "winPercentage": 59.72314010325539
   },
   {
     "name": "Qualification 34",
@@ -504,10 +504,10 @@
     "blue3": 1189,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 198.06800000000004,
+    "redScorePred": 185.35700000000003,
     "blueScorePred": 253.69,
     "winningAlliance": "blue",
-    "winPercentage": 75.6558579453958
+    "winPercentage": 80.34925662635494
   },
   {
     "name": "Qualification 35",
@@ -520,9 +520,9 @@
     "redScore": -1,
     "blueScore": -1,
     "redScorePred": 300.154,
-    "blueScorePred": 178.549,
+    "blueScorePred": 133.906,
     "winningAlliance": "red",
-    "winPercentage": 93.57523419714073
+    "winPercentage": 98.11499898230002
   },
   {
     "name": "Qualification 36",
@@ -534,10 +534,10 @@
     "blue3": 6548,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 202.37199999999999,
-    "blueScorePred": 108.082,
+    "redScorePred": 189.661,
+    "blueScorePred": 63.43899999999999,
     "winningAlliance": "red",
-    "winPercentage": 88.07261720469464
+    "winPercentage": 94.26913390273305
   },
   {
     "name": "Qualification 37",
@@ -550,9 +550,9 @@
     "redScore": -1,
     "blueScore": -1,
     "redScorePred": 217.34000000000003,
-    "blueScorePred": 113.751,
+    "blueScorePred": 69.108,
     "winningAlliance": "red",
-    "winPercentage": 90.23160984985587
+    "winPercentage": 96.80517142171252
   },
   {
     "name": "Qualification 38",
@@ -580,9 +580,9 @@
     "redScore": -1,
     "blueScore": -1,
     "redScorePred": -12.46299999999998,
-    "blueScorePred": 195.492,
+    "blueScorePred": 138.138,
     "winningAlliance": "blue",
-    "winPercentage": 99.533113211399
+    "winPercentage": 97.01168321186371
   },
   {
     "name": "Qualification 40",
@@ -594,10 +594,10 @@
     "blue3": 10349,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 351.02200000000005,
+    "redScorePred": 338.31100000000004,
     "blueScorePred": 140.83999999999997,
     "winningAlliance": "red",
-    "winPercentage": 99.56963742879023
+    "winPercentage": 99.32138265019913
   },
   {
     "name": "Qualification 41",
@@ -609,10 +609,10 @@
     "blue3": 8424,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 137.379,
+    "redScorePred": 80.02499999999999,
     "blueScorePred": 284.511,
     "winningAlliance": "blue",
-    "winPercentage": 96.70534955869854
+    "winPercentage": 99.47069591087151
   },
   {
     "name": "Qualification 42",
@@ -624,10 +624,10 @@
     "blue3": 1189,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 201.76600000000002,
+    "redScorePred": 144.412,
     "blueScorePred": 82.401,
     "winningAlliance": "red",
-    "winPercentage": 93.2158587300524
+    "winPercentage": 78.08708573188835
   },
   {
     "name": "Qualification 43",
@@ -639,10 +639,10 @@
     "blue3": 3357,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 205.28499999999997,
+    "redScorePred": 160.642,
     "blueScorePred": 87.581,
     "winningAlliance": "red",
-    "winPercentage": 92.93949606669476
+    "winPercentage": 81.94477742500624
   },
   {
     "name": "Qualification 44",
@@ -670,9 +670,9 @@
     "redScore": -1,
     "blueScore": -1,
     "redScorePred": 278.061,
-    "blueScorePred": 118.61400000000003,
+    "blueScorePred": 105.90300000000003,
     "winningAlliance": "red",
-    "winPercentage": 97.68741359097204
+    "winPercentage": 98.43003940788496
   },
   {
     "name": "Qualification 46",
@@ -685,9 +685,9 @@
     "redScore": -1,
     "blueScore": -1,
     "redScorePred": 48.914,
-    "blueScorePred": 150.914,
+    "blueScorePred": 138.203,
     "winningAlliance": "blue",
-    "winPercentage": 89.88453102772642
+    "winPercentage": 86.78129602259035
   },
   {
     "name": "Qualification 47",
@@ -699,10 +699,10 @@
     "blue3": 201,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 203.131,
-    "blueScorePred": 252.842,
+    "redScorePred": 158.488,
+    "blueScorePred": 240.13100000000003,
     "winningAlliance": "blue",
-    "winPercentage": 73.28277077469268
+    "winPercentage": 84.62631753940471
   },
   {
     "name": "Qualification 48",
@@ -714,10 +714,10 @@
     "blue3": 6548,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 412.586,
+    "redScorePred": 367.943,
     "blueScorePred": 44.85,
     "winningAlliance": "red",
-    "winPercentage": 99.9997851609972
+    "winPercentage": 99.99731082596277
   },
   {
     "name": "Qualification 49",
@@ -744,9 +744,9 @@
     "blue3": 10349,
     "redScore": -1,
     "blueScore": -1,
-    "redScorePred": 61.70899999999999,
+    "redScorePred": 4.354999999999988,
     "blueScorePred": 120.85400000000001,
     "winningAlliance": "blue",
-    "winPercentage": 77.01414383925749
+    "winPercentage": 92.7336470217218
   }
 ]
