@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Match Predictions</title>
+
+<link rel="stylesheet" href="matches.css">
+</head>
+<body>
+
+<nav class="topnav">
+    <a href="team.html">Team Stats</a>
+    <a href="prediction.html">Predictions</a>
+</nav>
+
+<table id="matchesTable">
+    <thead>
+        <tr>
+            <th>Match</th>
+
+            <th colspan="3" class="redHeader">Red Alliance</th>
+            <th colspan="3" class="blueHeader">Blue Alliance</th>
+
+            <th colspan="2">Scores</th>
+            <th colspan="2">Score Preds</th>
+            <th>Win Pred</th>
+            <th>%</th>
+        </tr>
+    </thead>
+
+    <tbody></tbody>
+</table>
+
+<script>
+fetch("matches.json")
+    .then(r => r.json())
+    .then(matches => {
+
+        const tbody = document.querySelector("#matchesTable tbody");
+
+        matches.forEach(match => {
+
+            const tr = document.createElement("tr");
+
+            const scoresPlayed =
+                match.redScore >= 0 &&
+                match.blueScore >= 0;
+
+            let actualWinner = "";
+
+            if(scoresPlayed){
+                actualWinner =
+                    match.redScore > match.blueScore
+                    ? "red"
+                    : "blue";
+            }
+
+            function scoreCell(score, winner){
+                if(score < 0)
+                    return "<td></td>";
+
+                return `<td class="${
+                    winner ? "winner" : ""
+                }">${score}</td>`;
+            }
+
+            tr.innerHTML = `
+
+            <td>${match.name.replace("Qualification","Quals")}</td>
+
+            <td class="red">${match.red1}</td>
+            <td class="red">${match.red2}</td>
+            <td class="red">${match.red3}</td>
+
+            <td class="blue">${match.blue1}</td>
+            <td class="blue">${match.blue2}</td>
+            <td class="blue">${match.blue3}</td>
+
+            ${scoreCell(match.redScore,
+                scoresPlayed && actualWinner==="red")}
+
+            ${scoreCell(match.blueScore,
+                scoresPlayed && actualWinner==="blue")}
+
+            <td>${Math.round(match.redScorePred)}</td>
+            <td>${Math.round(match.blueScorePred)}</td>
+
+            <td>${match.winningAlliance.charAt(0).toUpperCase()+match.winningAlliance.slice(1)}</td>
+
+            <td class="${
+                !scoresPlayed
+                ? ""
+                : (actualWinner===match.winningAlliance
+                    ? "correct"
+                    : "incorrect")
+            }">
+
+            ${Math.round(match.winPercentage)}%
+
+            </td>
+
+            `;
+
+            tbody.appendChild(tr);
+
+        });
+
+    });
+</script>
+
+</body>
+</html>

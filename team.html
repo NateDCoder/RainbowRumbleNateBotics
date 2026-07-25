@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Rankings</title>
+    <link rel="stylesheet" href="team.css">
+</head>
+<body>
+
+    <nav>
+        <div class="logo">🏆 Team Rankings</div>
+        <div class="nav-links">
+            <a href="prediction.html">Predictions</a>
+            <a href="matches.html">Matches</a>
+        </div>
+    </nav>
+
+    <main>
+        <div class="card">
+            <h1>Team Rankings</h1>
+            <table id="teamsTable">
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>Team</th>
+                        <th>Points</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </main>
+
+    <script>
+        async function loadTeams() {
+            const response = await fetch("teams.json");
+            const data = await response.json();
+
+            const teams = Object.entries(data)
+                .map(([team, points]) => ({ team, points }))
+                .sort((a, b) => b.points - a.points);
+
+            const tbody = document.querySelector("#teamsTable tbody");
+
+            teams.forEach((team, index) => {
+                const row = document.createElement("tr");
+
+                row.innerHTML = `
+                    <td>${index + 1}</td>
+                    <td>${team.team}</td>
+                    <td>${team.points.toFixed(1)}</td>
+                `;
+
+                tbody.appendChild(row);
+            });
+        }
+
+        loadTeams();
+    </script>
+
+</body>
+</html>
