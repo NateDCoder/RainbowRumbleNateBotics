@@ -56,7 +56,7 @@ function winProbability(predictedMargin, stdDev) {
   return probability * 100;
 }
 
-const team_text = await readFile("./teams.json", "utf8");
+const team_text = await readFile("./teams copy.json", "utf8");
 let numberToEPA = JSON.parse(team_text);
 
 for (let i = 0; i < matches.length; i++) {
